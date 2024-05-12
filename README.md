@@ -1,0 +1,1 @@
+# CircleCI-AWS-Ec3-AutoDeploy-Trunkbased
